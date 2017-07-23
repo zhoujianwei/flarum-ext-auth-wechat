@@ -16,7 +16,7 @@
     },
     "require": {
         "flarum/core": "^0.1.0-beta.7",
-        "henter/WeChat-OAuth": "master"
+        "henter/WeChat-OAuth": "1.0.1"
     },
     "autoload": {
         "psr-4": {
