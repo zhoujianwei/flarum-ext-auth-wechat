@@ -15,8 +15,8 @@
         "source": "https://github.com/StanleySong/flarum-ext-auth-wechat"
     },
     "require": {
-        "flarum/core": "^0.1.0-beta.6",
-        "henter/wechat-oauth": "dev-master"
+        "flarum/core": "^0.1.0-beta.7",
+        "henter/WeChat-OAuth": "master"
     },
     "autoload": {
         "psr-4": {
